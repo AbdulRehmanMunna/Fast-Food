@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black !important;
+}
+.card-group{
+    margin-top: 10px;
+}
+.card{
+    background-color: black !important;
+}
+.card-title{
+    background-color: black;
+    color: antiquewhite !important;
+    text-align: center;
+}
+.card-title:active{
+    background-color: black;
+   transform: scale(1.5);
+   transition: 4s;
+}
+
+button:hover{
+    transform: scale(1.2);
+    transition: 1s;
+}
+.logo1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(187, 125, 9)
+    
+}
+p{
+    text-align: center;
+    padding-top: 340px ;
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
